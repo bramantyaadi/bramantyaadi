@@ -5,7 +5,7 @@
 
 **Talking about Me**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 👨🏽‍💻 I am currently working on improving my techskill;
 - 📫 How to reach me: bramantyaadi44@gmail.com;
 
 ### 👨‍💻 Languages and Tools
